@@ -1,2 +1,4 @@
 # Modern_ML_85
 Project repo for modern machine learning in practice
+
+START MED EDA_RECEIVALS -> EDA_PURCHASE_ORDER -> EDA_MATERIALS -> EDA_TRANSPORT -> FEATURE AND ENGINEERING AND PREDICTIONS
