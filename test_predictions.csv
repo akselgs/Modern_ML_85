@@ -1,4 +1,4 @@
-days_normalized,date,day_of_week,is_weekend,month,date_str,is_Holiday,rm_id,daily_weight,num_orders,average_orders,max_orders,std_orders,cumulative_weight,rolling_7,rolling_30,rolling_100,predicted_weight
+days_normalized,date,day_of_week,is_weekend,month,date_str,is_holiday,rm_id,daily_weight,num_orders,average_orders,max_orders,std_orders,cumulative_weight,rolling_7,rolling_30,rolling_100,predicted_weight
 7306,2024-06-16 11:34:00+00:00,6,1,6,2024-06-16,0,365,0.0,0.0,0.0,0.0,0.0,25616003.0,0.0,0.0,0.0,0.800302
 7307,2024-06-17 11:34:00+00:00,0,0,6,2024-06-17,0,365,0.0,0.0,0.0,0.0,0.0,25616003.0,0.0,0.0,0.0,-2.2599223
 7308,2024-06-18 11:34:00+00:00,1,0,6,2024-06-18,0,365,0.0,0.0,0.0,0.0,0.0,25616003.0,0.0,0.0,0.0,0.800302
